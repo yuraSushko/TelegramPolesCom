@@ -1,0 +1,12 @@
+public enum Stage {
+    NEW,
+    ASKED_TO_CREATE,
+    CREATING_POLE,
+    ADD_QUESTION,
+    ADD_ANSWER,
+    ADD_Q_OR_A,
+    DELAY_TIME,
+    ANSWERING_POLE,
+    SENDING_OUT_POLE
+
+}
